@@ -1,3 +1,3 @@
 # Game
-Combat Monsters look alike.
-Will have to download and use Xampp to access the online information
+Combat Monsters look alike. 
+Will have to download Xampp and place the lone_child folder in the htdocs to access the online information.
